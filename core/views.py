@@ -1,5 +1,5 @@
 from django.shortcuts import render
 
-def index(request,bo):
+def index(request,b):
     pass
 # Create your views here.
