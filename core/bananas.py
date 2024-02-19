@@ -4,5 +4,5 @@ from core.views import index
 app_name = "bananas"
 
 urlpatterns = [
-    path("bananas/", views.index)
+    path("bananas/", index)
 ]
