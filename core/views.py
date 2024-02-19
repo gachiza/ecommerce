@@ -1,5 +1,5 @@
 from django.shortcuts import render
 
 def index(request):
-    pass
+    return HttpResponse("Welcome to my shop")
 # Create your views here.
